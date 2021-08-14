@@ -1,0 +1,71 @@
+body {
+    background-color: #8F8F8F;
+}
+
+#MainNadhesivas {
+    width: 20%;
+    height: 250px;
+    background-color: #FFFA9B;
+    -webkit-box-shadow: 10px 13px 65px -25px rgba(0, 0, 0, 0.77);
+    -moz-box-shadow: 10px 13px 65px -25px rgba(0, 0, 0, 0.77);
+    box-shadow: 10px 13px 65px -25px rgba(0, 0, 0, 0.77);
+    display: none;
+}
+
+#Cabecera {
+    color: white;
+    background-color: #F7DE3E;
+    width: 100%;
+    height: 6%;
+    /* hacemos que la cabecera ocupe el ancho completo de la página */
+    left: 0;
+    /* Posicionamos la cabecera al lado izquierdo */
+    top: 0;
+    /* Posicionamos la cabecera pegada arriba */
+}
+
+#boton2 {
+    width: 8px;
+    height: 8px;
+    background-color: #FFFA9B;
+    border: 1px solid #F7D23E;
+    float: left;
+    margin-left: 2%;
+    cursor: pointer;
+}
+
+#boton3 {
+    width: 8px;
+    height: 8px;
+    background-color: #FFFA9B;
+    border: 1px solid #F7D23E;
+    float: left;
+    margin-left: 2%;
+    cursor: pointer;
+}
+
+
+/*#boton3 {
+    width: 8px;
+    height: 8px;
+    background-color: #FFFA9B;
+    border: 1px solid #F7D23E;
+    margin-left: 94%;
+    margin-right: 2%;
+    cursor: pointer;
+}*/
+
+#TextA {
+    width: 100%;
+    height: 94%;
+}
+
+#TextArea {
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin-left: 4%;
+    margin-top: 4%;
+    width: 90%;
+    height: 90%;
+    resize: none;
+}
